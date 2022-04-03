@@ -1,6 +1,6 @@
 Hi! This is Yassine Mekdad,
 
-I am a cybersecurity PhD student. I hold a Msc in Cryptography and Information Security and a Bsc in Computer Science and Mathematics.
+I hold a Msc in Cryptography and Information Security and a Bsc in Computer Science and Mathematics.
 
 My research interest principally cover challenging security problems in Cyber-physical systems (CPS). 
 In particular, the security and privacy topics in the Internet of Things (IoT), Industrial Internet-of-Things (IIoT), and Cyber-physical systems (CPS). 
